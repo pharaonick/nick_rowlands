@@ -50,7 +50,9 @@ rsconnect/
 
 # Quarto folders
 /.quarto/
+**/*.quarto_ipynb
 docs/
+
 
 # R Project
 *.Rproj

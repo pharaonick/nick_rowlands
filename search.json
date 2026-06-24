@@ -12,5 +12,12 @@
     "title": "My Website Is Mine",
     "section": "",
     "text": "Check back later!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "Yes"
   }
 ]
